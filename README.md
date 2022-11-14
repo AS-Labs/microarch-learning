@@ -6,3 +6,6 @@ Install:
 * docker
 * kubectl
 * minikube
+* k9s
+* python
+* mysql
